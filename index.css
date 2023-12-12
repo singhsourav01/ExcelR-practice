@@ -1,4 +1,9 @@
 h1{
+<<<<<<< HEAD
     background-color: tomato;
     color: darkblue;
+=======
+    background-color: dodgerblue;
+    color: tomato;
+>>>>>>> feature
 }
